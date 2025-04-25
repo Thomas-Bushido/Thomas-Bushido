@@ -1,6 +1,6 @@
-# 👋 Hi, Bonjour!
+# 👋 Hello!
 
-I'm Thomas PEREIRA, a junior full stack developper from France.
+I'm Thomas PEREIRA, a junior full stack developer from France.
 
 🎓 Currently training as a Full Stack Java Developer
 💼 Looking for an apprenticeship or full-time position starting September 2025
